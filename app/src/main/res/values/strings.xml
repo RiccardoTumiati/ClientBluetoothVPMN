@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ClientBluetoothVPMN</string>
+    <string name="zero">0</string>
+    <string name="connect">Connetti</string>
+    <string name="bonded">Dispositivi accoppiati:</string>
+    <string name="discovery">Risultato ricerca dispositivi:</string>
+    <string name="update">Stato connessione:</string>
+    <string name="bluetooth">Bluetooth:</string>
+    <string name="send">Invia un messaggio:</string>
+    <string name="voidField"></string>
+    <string name="ipdest">Indirizzo IP destinazione:</string>
+    <string name="ipsor">Ultimo messaggio ricevuto da:</string>
+    <string name="messor">Testo ultimo messaggio ricevuto:</string>
+    <string name="mesdest">Invia messaggio:</string>
+    <string name="type">digita il messaggio</string>
+    <string name="settings">Settings</string>
+    <string name="myIP">Il mio indirizzo IP:</string>
+    <string name="deny">Permesso rifiutato. Accedere alla posizione è necessario per il funzionamento del bluetooth. Il dato non verrà comunque comunicato a nessun operatore telefonico. Per fornire tale permesso recarsi nelle impostazione</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
