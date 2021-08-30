@@ -65,14 +65,18 @@ class MessageFragment : Fragment() {
 
     fun setLastMessageFrom(s:String){
         lastMesFromValue=s
-        if(this.isAdded)
-            lastMesFrom.text=lastMesFromValue
+        if(this.isAdded) {
+            lastMesFrom.text = lastMesFromValue
+            log.text=""
+        }
     }
 
     fun setLastMessageText(s:String){
         lastMesTextValue=s
-        if(this.isAdded)
-            lastMesText.text=lastMesTextValue
+        if(this.isAdded) {
+            lastMesText.text = lastMesTextValue
+            log.text=""
+        }
     }
 
     fun setLog(s:String){
